@@ -6,7 +6,7 @@
 
 **English:**
 
-The TKinter Graph Coloring App is a Python application that uses the TKinter library to provide a graphical user interface (GUI) for graph coloring. This app allows users to create graphs and apply coloring algorithms to them. It is a useful tool for visualizing graph theory concepts and for educational purposes.
+The TKinter Graph Coloring App is a Python application that uses the TKinter library to provide a graphical user interface (GUI) for graph coloring. This app allows users to create graphs and apply coloring algorithms to them. It is a useful tool for visualizing graph theory concepts and for educational purposes. [!!!App runs only in polish language!!!]
 
 **Polski:**
 
@@ -61,12 +61,25 @@ To start the application, run the following command:
 ```sh
 python Graph_Coloring.py
 ```
+
+As an alternative, there is an installation file GraphColoring_setup.exe in the Installer folder. The file will launch the installer, which atuomatically installs the application already in .exe format and creates a shortcut to it on the desktop. All you have to do is run it and install the application, then run the application.
+
+```sh
+Installer/GraphColoring_setup.exe
+```
+
 **Polski:**
 
 Aby uruchomić aplikację, wykonaj następujące polecenie:
 
 ```sh
 python Graph_Coloring.py
+```
+
+Jako alternatywa, w folderze Installer znajduje się plik instalacyjny GraphColoring_setup.exe. Plik uruchomi instalator, który atuomatycznie zainstaluje aplikację już w formacie .exe oraz utworzy skrót do niej na pulpicie. Wystarczy go uruchomić i zainstalować aplikację, a następnie uruchomić aplikację.
+
+```sh
+Installer/GraphColoring_setup.exe
 ```
 
 ## License (Licencja)
