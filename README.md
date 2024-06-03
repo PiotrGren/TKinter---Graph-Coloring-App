@@ -1,6 +1,8 @@
+### [EN] / [PL]
+
 # TKinter Graph Coloring App
 
-## Description (Opis)
+## Description / Opis
 
 **English:**
 
@@ -10,7 +12,7 @@ The TKinter Graph Coloring App is a Python application that uses the TKinter lib
 
 TKinter Graph Coloring App to aplikacja w języku Python, która wykorzystuje bibliotekę TKinter do zapewnienia graficznego interfejsu użytkownika (GUI) do kolorowania grafów. Aplikacja umożliwia tworzenie grafów i stosowanie do nich algorytmów kolorowania. Jest to przydatne narzędzie do wizualizacji koncepcji teorii grafów i celów edukacyjnych.
 
-## Features (Funkcje)
+## Features / Funkcje
 
 **English:**
 
@@ -26,7 +28,7 @@ TKinter Graph Coloring App to aplikacja w języku Python, która wykorzystuje bi
 - Interaktywny GUI z wykorzystaniem TKinter
 - Zapis i ładowanie grafów
 
-## Installation (Instalacja)
+## Installation / Instalacja
 
 **English:**
 
@@ -58,7 +60,7 @@ TKinter Graph Coloring App to aplikacja w języku Python, która wykorzystuje bi
    pip install -r requirements.txt
    ```
 
-## Usage (Użycie)
+## Usage / Użycie
 
 **English:**
 
