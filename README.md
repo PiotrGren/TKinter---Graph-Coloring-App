@@ -67,5 +67,18 @@ TKinter Graph Coloring App to aplikacja w języku Python, która wykorzystuje bi
 To start the application, run the following command:
 
 ```sh
-python main.py
+python Graph_Coloring.py
 ```
+**Polski:**
+
+Aby uruchomić aplikację, wykonaj następujące polecenie:
+
+```sh
+python Graph_Coloring.py
+```
+
+## License (Licencja)
+
+[EN] This project is licensed under the MIT License. See the LICENSE file for more details.
+
+[PL] Ten projekt jest licencjonowany na licencji MIT. Zobacz plik LICENSE aby uzyskać więcej informacji.
