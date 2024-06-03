@@ -51,10 +51,6 @@ TKinter Graph Coloring App to aplikacja w języku Python, która wykorzystuje bi
    ```sh
    cd TKinter-Graph-Coloring-App
    ```
-3. Zainstaluj wymagane zależności:
-   ```sh
-   pip install -r requirements.txt
-   ```
 
 ## Usage / Użycie
 
