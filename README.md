@@ -10,10 +10,11 @@
 
 1. [Description](#description)
 2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [License](#license)
-6. [Authors](#authors)
+3. [Requirements](#requirements)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [License](#license)
+7. [Authors](#authors)
 
 ## Description
 
@@ -25,6 +26,13 @@ The TKinter Graph Coloring App is a Python application that uses the TKinter lib
 - Apply graph coloring algorithms
 - Interactive GUI using TKinter
 - Save and load graphs
+
+## Requirements
+
+Make sure you have Python installed on your computer.
+
+In order to independently run this application using the Python debugger, you need to install the necessary libraries.
+See the requirements.txt file, where the installation commands of the required libraries are stored. Run these commands in commmand prompt (CMD/Terminal).
 
 ## Installation
 
@@ -121,6 +129,13 @@ TKinter Graph Coloring App to aplikacja w języku Python, która wykorzystuje bi
 - Stosowanie algorytmów kolorowania grafów
 - Interaktywny GUI z wykorzystaniem TKinter
 - Zapis i ładowanie grafów
+
+## Wymagania
+
+Upewnij się, że masz zainstalowany Python na swoim komputerze.
+
+Aby uruchomić aplikację przy użyciu debuggera Python, należy zainstalować niezbędne biblioteki.
+Zobacz plik requirements.txt, w którym przechowywane są polecenia instalacji wymaganych bibliotek. Uruchom te polecenia w wierszu poleceń (CMD/Terminal).
 
 ## Instalacja
 
