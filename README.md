@@ -102,7 +102,7 @@ Piotr Greń - Main developer - https://github.com/PiotrGren
 
 # Aplikacja do kolorowania grafów - Python Tkinter
 
-## Table of Contents
+## Spis treści
 
 1. [Opis](#opis)
 2. [Funkcje](#funkcje)
