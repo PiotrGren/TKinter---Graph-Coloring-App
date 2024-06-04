@@ -40,7 +40,7 @@ The TKinter Graph Coloring App is a Python application that uses the TKinter lib
 
 #### Alternative
 
-As an alternative, there is an installation file GraphColoring_setup.exe in the Installer folder. The file will launch the installer, which atuomatically installs the application already in .exe format and creates a shortcut to it on the desktop. All you have to do is run it and install the application, then run the application.
+As an alternative, there is an installation file GraphColoring_setup.exe in the Installer folder. You can download it and run it on your local machine. The file will launch the installer, which atuomatically installs the application already in .exe format and creates a shortcut to it on the desktop. All you have to do is run it and install the application, then run the application.
 
 ```sh
 Installer/GraphColoring_setup.exe
@@ -53,6 +53,8 @@ To start the application, run the following command:
 ```sh
 python Graph_Coloring.py
 ```
+
+#### Creating an .exe file by yourself
 
 If you didn't choose to install the application by running **GraphColoring_setup.exe** you can create your own .exe file app after downloading this repository.
 To run this process on your local machine, follow these steps:
@@ -134,7 +136,7 @@ TKinter Graph Coloring App to aplikacja w języku Python, która wykorzystuje bi
 
 #### Alternatywa
 
-Jako alternatywa, w folderze Installer znajduje się plik instalacyjny GraphColoring_setup.exe. Plik uruchomi instalator, który atuomatycznie zainstaluje aplikację już w formacie .exe oraz utworzy skrót do niej na pulpicie. Wystarczy go uruchomić i zainstalować aplikację, a następnie uruchomić aplikację.
+Jako alternatywa, w folderze Installer znajduje się plik instalacyjny GraphColoring_setup.exe. Możnesz go pobrać i uruchomić na swoim komputerze. Plik uruchomi instalator, który atuomatycznie zainstaluje aplikację już w formacie .exe oraz utworzy skrót do niej na pulpicie. Wystarczy go uruchomić i zainstalować aplikację, a następnie uruchomić aplikację.
 
 ```sh
 Installer/GraphColoring_setup.exe
@@ -147,6 +149,8 @@ Aby uruchomić aplikację, wykonaj następujące polecenie:
 ```sh
 python Graph_Coloring.py
 ```
+
+#### Samodzielne tworzenie pliku .exe
 
 Jeśli nie zdecydowałeś się na instalację aplikacji poprzez uruchomienie **GraphColoring_setup.exe**, możesz utworzyć własną aplikację w pliku .exe po pobraniu tego repozytorium.
 Aby uruchomić ten proces na komputerze lokalnym, wykonaj następujące kroki:
