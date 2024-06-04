@@ -205,4 +205,4 @@ Piotr Greń - Main developer - https://github.com/PiotrGren
 
 ### Współautorzy
 
-- Gabriela Kiwacka - Współtwórca algorytmu kolorowania grafów
+- Gabriela Kiwacka - Współtwórca algorytmu kolorowania grafów - https://github.com/GabrielaKiwacka
