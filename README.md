@@ -103,7 +103,7 @@ Piotr Greń - Main developer - https://github.com/PiotrGren
 
 ### Co-authors
 
-- Gabriela Kiwacka - Co-developer of an algorithm for graph coloring
+- Gabriela Kiwacka - Co-developer of an algorithm for graph coloring - https://github.com/GabrielaKiwacka
 
 
 #### Polski
